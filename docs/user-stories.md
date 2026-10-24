@@ -8,6 +8,8 @@ As a user experiencing sleep difficulties, I want to complete a preliminary inso
 - The user can answer the required screening questions and submit the completed questionnaire.
 - The application displays a preliminary result based on the user's responses and clearly states that the result is not a medical diagnosis.
 
+**Related requirements:** FR1, FR2, FR3
+
 ## User Story 2: Daily Sleep Diary
 
 As a user, I want to record my daily sleeping habits, so that I can monitor my sleep patterns over time.
@@ -16,6 +18,8 @@ As a user, I want to record my daily sleeping habits, so that I can monitor my s
 - The user can record and save daily sleep information, including the date, bedtime, wake-up time, and perceived sleep quality.
 - The user can view previously saved sleep diary entries to review their sleeping habits.
 
+**Related requirements:** FR1, FR4
+
 ## User Story 3: General Sleep Tips
 
 As a user, I want to access general sleep tips, so that I can learn about habits that may support better sleep.
@@ -23,3 +27,5 @@ As a user, I want to access general sleep tips, so that I can learn about habits
 **Acceptance criteria:**
 - The application displays a list of general sleep tips that the user can browse.
 - The user can select and read individual tips, which provide general educational information rather than a medical diagnosis or personalised treatment advice.
+
+**Related requirements:** FR5
