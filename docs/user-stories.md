@@ -15,9 +15,7 @@ As a user experiencing sleep difficulties, I want to complete a preliminary inso
 As a user, I want to record my daily sleeping habits, so that I can monitor my sleep patterns over time.
 
 **Acceptance criteria:**
-- Time taken to fall asleep.
-- Number of nighttime awakenings.
-- The user can record and save daily sleep information, including the date, bedtime, wake-up time, and perceived sleep quality.
+- The user can record and save daily sleep information, including the date, bedtime, time taken to fall asleep, number of nighttime awakenings, wake-up time, and perceived sleep quality.
 - The user can view previously saved sleep diary entries to review their sleeping habits.
 
 **Related requirements:** FR1, FR4
