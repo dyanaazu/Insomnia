@@ -8,9 +8,9 @@ By the end of this sprint, my user stories will have acceptance criteria, my req
 ### Sprint backlog
 | Issue | Task | Status |
 |-------|------|--------|
-| #1 | Add acceptance criteria to each user story. | Todo |
-| #2 | Number the requirements and link each story to one. | Todo |
-| #3 | Add structure and roadmap to the README. | Todo |
+| #1 | Add acceptance criteria to each user story. | Done |
+| #2 | Number the requirements and link each story to one. | Done |
+| #3 | Add structure and roadmap to the README. | Done |
 
 ### Daily standup notes
 - Standup 1: I created three GitHub issues and added them to the Sprint 1 project board. Next, I will add at least two acceptance criteria to each user story. A possible blocker is ensuring that the acceptance criteria match the requirements.
