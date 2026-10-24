@@ -8,9 +8,9 @@ By the end of this sprint, my user stories will have acceptance criteria, my req
 ### Sprint backlog
 | Issue | Task | Status |
 |-------|------|--------|
-| #1 | | Add acceptance criteria to each user story. |
-| #2 | | Number the requirements and link each story to one. |
-| #3 | | Add structure and roadmap to the README. |
+| #1 | Add acceptance criteria to each user story. | Todo |
+| #2 | Number the requirements and link each story to one. | Todo |
+| #3 | Add structure and roadmap to the README. | Todo |
 
 ### Daily standup notes
 - Standup 1: [what I will do now / what could block me]
